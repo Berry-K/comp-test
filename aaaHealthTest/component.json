@@ -1,8 +1,8 @@
 {
   "engineType": "PySpark",
   "language": "Python",
-  "name": "health2-test",
-  "label": "Health2 test from github",
+  "name": "health2-test-GH",
+  "label": "Health2 test from github Berry-K",
   "program": "main.py",
   "modelBehavior": "Auxiliary",
   "useMLOps": true,
