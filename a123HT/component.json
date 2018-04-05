@@ -1,7 +1,7 @@
 {
   "engineType": "PySpark",
   "language": "Python",
-  "name": "aaa_health2-test-GH",
+  "name": "_aaa_health2-test-GH",
   "label": "Health2 test from github Berry-K",
   "program": "main.py",
   "modelBehavior": "Auxiliary",
@@ -18,5 +18,5 @@
       "optional": true
     }
   ],
-  "version": 1
+  "version": 2
 }
